@@ -11,7 +11,7 @@ Whenever you are introduced to new technology it's good to use something your fa
 
 ## Task - Build Your Digital Resume
 
-* Review the example resume as a way to get ideas for your own resume.  The example is there to give you a guideline, please avoid copying it as it would just cheat you of the experience of making your own.
+* [Review the example resume](_example-resume/) as a way to get ideas for your own resume.  The example is there to give you a guideline, please avoid copying it as it would just cheat you of the experience of making your own.
 
 * Your responsive layout must follow the grid system pattern shown here:
 ```
